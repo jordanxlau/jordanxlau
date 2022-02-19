@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jordanxlau
 - 👀 I’m interested in a career in computational linguistics
 - 🌱 I’m currently learning advanced object orientation in java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on mobile apps and games.
+- 📫 You can soon reach me at my own personal webpage.
 
 <!---
 jordanxlau/jordanxlau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
