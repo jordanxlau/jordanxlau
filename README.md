@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordanxlau
-- 👀 I’m interested in a career in computational linguistics
-- 🌱 I’m currently learning java.
+- 👀 I’m interested in a career in computational linguistics.
+- 🌱 I’m currently studying computer science at the University of Ottawa.
 - 💞️ I’m looking to collaborate on mobile apps and games.
 - 📫 You can soon reach me at my own personal webpage.
 
