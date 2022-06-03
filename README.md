@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordanxlau
-- 👀 I’m interested in a career in computational linguistics.
+- 👀 I’m interested in a career in computational linguistics or cryptography.
 - 🌱 I’m currently studying computer science at the University of Ottawa.
 - 💞️ I’m looking to collaborate on mobile apps, games or anything fun!
 - 📫 You can reach me on my LinkedIn, Jordan Lau.
