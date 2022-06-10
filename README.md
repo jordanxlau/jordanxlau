@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordanxlau
 - 👀 I’m interested in a career in computational linguistics or cybersecurity.
-- 🌱 I’m currently studying computer science at the University of Ottawa with a minor in Linguistics.
+- 🌱 I’m currently studying computer science at the University of Ottawa with a minor in linguistics.
 - 💞️ I’m looking to collaborate on mobile apps, games or anything fun!
 - 📫 You can reach me on my LinkedIn, Jordan Lau.
 - 💻 Check out my own personal webpage (coming soon).
