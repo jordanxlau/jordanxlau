@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jordanxlau
+- 👋 Hey there, I’m @jordanxlau
 - 🎯 I’m interested in a career in computational linguistics, machine learning and data science.
-- 📚 This year, I am graduating from studying computer science and linguistics at uOttawa!
+- 📚 This year, I'll be graduating from computer science and linguistics at uOttawa!
 - 👔 I also work as a software developer intern at the NRC.
-- 📫 You can reach me on my LinkedIn, Jordan Lau.
+- 📫 You can reach me at jordanxlau@yahoo.ca.
 - 👀 Check out my own personal webpage: [jordanxlau.github.io](https://jordanxlau.github.io/)
 
 <!---
