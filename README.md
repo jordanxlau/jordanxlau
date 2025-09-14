@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m @jordanxlau
-- 🎯 I’m interested in a career in computational linguistics, machine learning and data science.
+- 🎯 I’m interested in a career in data science, machine learning and/or computational linguistics.
 - 👔 This Summer, I worked as a software developer intern at the NRC.
 - 📚 In December, I'll be graduating from computer science and linguistics at uOttawa!
 - 📫 You can reach me at jordanxlau@yahoo.ca.
